@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mt2si\desktop\projekty\many-faced god\mouse_capturing\mouse_capturing\source.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  mouse_capturing.vcxproj -> C:\Users\mt2si\Desktop\projekty\Many-Faced God\mouse_capturing\Debug\mouse_capturing.exe
+  mouse_capturing.vcxproj -> C:\Users\mt2si\Desktop\projekty\Many-Faced God\mouse_capturing\Debug\mouse_capturing.pdb (Partial PDB)
